@@ -1,3 +1,4 @@
 countrynames
+unidecode
 pandas
 requests
