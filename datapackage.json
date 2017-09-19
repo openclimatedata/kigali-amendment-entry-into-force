@@ -1,0 +1,38 @@
+{
+  "sources": [
+    {
+      "name": "United Nations Treaty Collection",
+      "web": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVII-2-f&chapter=27&clang=_en"
+    }
+  ],
+  "resources": [
+    {
+      "name": "kigali-amendment",
+      "path": "data/kigali-amendment.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Code",
+            "type": "string",
+            "description": "Country Code (ISO3166-1-Alpha-3)"
+          },
+          {
+            "name": "Name",
+            "type": "string",
+            "description": "Country Name"
+          },
+          {
+            "name": "Date",
+            "type": "date",
+            "description": "Date of Acceptance, Ratification or Approval"
+          }
+        ],
+        "primaryKey": "Code"
+      }
+    }
+  ],
+  "name": "kigali-amendment",
+  "title": "Ratification Status of the Kigali Amendment to the Montreal Protocol on Substances that Deplete the Ozone Layer"
+}
