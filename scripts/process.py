@@ -36,7 +36,6 @@ for row in rows:
         date_string = date_string[:-2]
     elif date_string.endswith(" AA"):
         date_string = date_string[:-3]
-    print(date_string)
     date = pd.to_datetime(date_string)
     entries.append((name, date,))
 
