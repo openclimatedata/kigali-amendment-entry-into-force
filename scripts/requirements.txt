@@ -2,3 +2,4 @@ countrynames
 unidecode
 pandas
 requests
+goodtables

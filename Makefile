@@ -1,6 +1,7 @@
 all: venv
 	git pull
 	./venv/bin/python scripts/process.py
+	./venv/bin/goodtables datapackage.json
 	@git diff data
 
 venv: scripts/requirements.txt
