@@ -9,7 +9,7 @@ import pandas as pd
 import requests
 
 
-print("Doha Amendment to the Kyoto Protocoll")
+print("Kigali Amendment to the Montreal Protocoll")
 path = os.path.dirname(os.path.realpath(__file__))
 treaty_url = "https://treaties.un.org/doc/Publication/MTDSG/Volume%20II/Chapter%20XXVII/XXVII-2-f.en.xml"
 outfile = os.path.join(path, "../data/kigali-amendment.csv")
