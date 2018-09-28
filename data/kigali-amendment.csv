@@ -1,5 +1,6 @@
 Code,Name,Date
 AUS,Australia,2017-10-27
+AUT,Austria,2018-09-27
 BRB,Barbados,2018-04-19
 BEL,Belgium,2018-06-04
 BEN,Benin,2018-03-19
@@ -10,8 +11,11 @@ CHL,Chile,2017-09-19
 COM,Comoros,2017-11-16
 CRI,Costa Rica,2018-05-23
 CIV,Côte d'Ivoire,2017-11-29
+CZE,Czech Republic,2018-09-27
 PRK,Democratic People's Republic of Korea,2017-09-21
 ECU,Ecuador,2018-01-22
+EST,Estonia,2018-09-27
+EUU,European Union,2018-09-27
 FIN,Finland,2017-11-14
 FRA,France,2018-03-29
 GAB,Gabon,2018-02-28
@@ -27,6 +31,7 @@ MWI,Malawi,2017-11-21
 MDV,Maldives,2017-11-13
 MLI,Mali,2017-03-31
 MHL,Marshall Islands,2017-05-15
+MEX,Mexico,2018-09-25
 FSM,Micronesia (Federated States of),2017-05-12
 NLD,Netherlands,2018-02-08
 NER,Niger,2018-08-29
