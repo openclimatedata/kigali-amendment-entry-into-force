@@ -1,5 +1,7 @@
 Data Package with Ratification Status of the Kigali Amendment to the Montreal Protocol
 
+[![Daily Update](https://github.com/openclimatedata/kigali-amendment-entry-into-force/workflows/Daily%20Update/badge.svg)](https://github.com/openclimatedata/kigali-amendment-entry-into-force/actions)
+
 ## Data
 
 The dataset contains dates of Acceptance, Ratification, or Approval of the
