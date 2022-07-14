@@ -27,6 +27,19 @@
             "name": "Date",
             "type": "date",
             "description": "Date of Acceptance, Ratification or Approval"
+          },
+          {
+            "name": "Participation Type",
+            "type": "string",
+            "description": "How has this country participated in the Kigali Amendment",
+	    "constraints": {
+		    "enum": [
+			    "Ratification",
+			    "Acceptance",
+			    "Approval",
+			    "Provisional application under Article V"
+		    ]
+	    }
           }
         ],
         "primaryKey": "Code"

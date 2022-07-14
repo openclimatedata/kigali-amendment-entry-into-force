@@ -1,130 +1,138 @@
-Code,Name,Date
-ALB,Albania,2019-01-18
-AND,Andorra,2019-01-23
-AGO,Angola,2020-11-16
-ARG,Argentina,2019-11-22
-ARM,Armenia,2019-05-02
-AUS,Australia,2017-10-27
-AUT,Austria,2018-09-27
-BGD,Bangladesh,2020-06-08
-BRB,Barbados,2018-04-19
-BEL,Belgium,2018-06-04
-BEN,Benin,2018-03-19
-BTN,Bhutan,2019-09-27
-BOL,Bolivia (Plurinational State of),2020-10-09
-BIH,Bosnia and Herzegovina,2021-05-26
-BWA,Botswana,2020-09-19
-BGR,Bulgaria,2018-05-01
-BFA,Burkina Faso,2018-07-26
-BDI,Burundi,2021-03-26
-CPV,Cabo Verde,2020-10-28
-KHM,Cambodia,2021-04-08
-CMR,Cameroon,2021-08-24
-CAN,Canada,2017-11-03
-TCD,Chad,2019-03-26
-CHL,Chile,2017-09-19
-CHN,China,2021-06-17
-COL,Colombia,2021-02-25
-COM,Comoros,2017-11-16
-COK,Cook Islands,2019-08-22
-CRI,Costa Rica,2018-05-23
-CIV,Côte d'Ivoire,2017-11-29
-HRV,Croatia,2018-12-06
-CUB,Cuba,2019-06-20
-CYP,Cyprus,2019-07-22
-CZE,Czech Republic,2018-09-27
-PRK,Democratic People's Republic of Korea,2017-09-21
-DNK,Denmark,2018-12-06
-DOM,Dominican Republic,2021-04-14
-ECU,Ecuador,2018-01-22
-SLV,El Salvador,2021-09-13
-EST,Estonia,2018-09-27
-SWZ,Eswatini,2020-11-24
-ETH,Ethiopia,2019-07-05
-EUU,European Union,2018-09-27
-FJI,Fiji,2020-06-16
-FIN,Finland,2017-11-14
-FRA,France,2018-03-29
-GAB,Gabon,2018-02-28
-GMB,Gambia,2021-05-05
-DEU,Germany,2017-11-14
-GHA,Ghana,2019-08-02
-GRC,Greece,2018-10-05
-GRD,Grenada,2018-05-29
-GIN,Guinea,2019-12-05
-GNB,Guinea-Bissau,2018-10-22
-VAT,Holy See,2020-06-17
-HND,Honduras,2019-01-28
-HUN,Hungary,2018-09-14
-ISL,Iceland,2021-01-25
-IND,India,2021-09-27
-IRL,Ireland,2018-03-12
-JPN,Japan,2018-12-18
-JOR,Jordan,2019-10-16
-KIR,Kiribati,2018-10-26
-KGZ,Kyrgyzstan,2020-09-08
-LAO,Lao People's Democratic Republic,2017-11-16
-LVA,Latvia,2018-08-17
-LBN,Lebanon,2020-02-05
-LSO,Lesotho,2019-10-07
-LBR,Liberia,2020-07-12
-LIE,Liechtenstein,2020-09-16
-LTU,Lithuania,2018-07-24
-LUX,Luxembourg,2017-11-16
-MWI,Malawi,2017-11-21
-MYS,Malaysia,2020-10-21
-MDV,Maldives,2017-11-13
-MLI,Mali,2017-03-31
-MHL,Marshall Islands,2017-05-15
-MUS,Mauritius,2019-10-01
-MEX,Mexico,2018-09-25
-FSM,Micronesia (Federated States of),2017-05-12
-MNE,Montenegro,2019-04-23
-MOZ,Mozambique,2020-01-16
-NAM,Namibia,2019-05-16
-NLD,Netherlands,2018-02-08
-NZL,New Zealand,2019-10-03
-NIC,Nicaragua,2020-09-30
-NER,Niger,2018-08-29
-NGA,Nigeria,2018-12-20
-NIU,Niue,2018-04-24
-MKD,North Macedonia,2020-03-12
-NOR,Norway,2017-09-06
-PLW,Palau,2017-08-29
-PAN,Panama,2018-09-28
-PRY,Paraguay,2018-11-01
-PER,Peru,2019-08-07
-POL,Poland,2019-01-07
-PRT,Portugal,2018-07-17
-ROU,Romania,2020-07-01
-RUS,Russian Federation,2020-10-03
-RWA,Rwanda,2017-05-23
-WSM,Samoa,2018-03-23
-SMR,San Marino,2020-10-20
-STP,Sao Tome and Principe,2019-10-04
-SEN,Senegal,2018-08-31
-SRB,Serbia,2021-10-08
-SYC,Seychelles,2019-08-20
-SLE,Sierra Leone,2020-06-15
-SVK,Slovakia,2017-11-16
-SVN,Slovenia,2018-12-07
-SOM,Somalia,2019-11-27
-ZAF,South Africa,2019-08-01
-LKA,Sri Lanka,2018-09-28
-LCA,St. Lucia,2021-11-02
-SWE,Sweden,2017-11-17
-CHE,Switzerland,2018-11-07
-SYR,Syrian Arab Republic,2021-04-05
-TGO,Togo,2018-03-08
-TON,Tonga,2018-09-17
-TTO,Trinidad and Tobago,2017-11-17
-TUN,Tunisia,2021-08-27
-TUR,Turkey,2021-11-10
-TKM,Turkmenistan,2020-08-31
-TUV,Tuvalu,2017-09-21
-UGA,Uganda,2018-06-21
-GBR,United Kingdom of Great Britain and Northern Ireland,2017-11-14
-URY,Uruguay,2018-09-12
-VUT,Vanuatu,2018-04-20
-VNM,Viet Nam,2019-09-27
-ZMB,Zambia,2021-03-15
+Code,Name,Date,Participation Type
+ALB,Albania,2019-01-18,Ratification
+AND,Andorra,2019-01-23,Acceptance
+AGO,Angola,2020-11-16,Ratification
+ARG,Argentina,2019-11-22,Ratification
+ARM,Armenia,2019-05-02,Acceptance
+AUS,Australia,2017-10-27,Acceptance
+AUT,Austria,2018-09-27,Ratification
+BGD,Bangladesh,2020-06-08,Ratification
+BRB,Barbados,2018-04-19,Ratification
+BEL,Belgium,2018-06-04,Ratification
+BEN,Benin,2018-03-19,Ratification
+BTN,Bhutan,2019-09-27,Ratification
+BOL,Bolivia (Plurinational State of),2020-10-09,Ratification
+BIH,Bosnia and Herzegovina,2021-05-26,Ratification
+BWA,Botswana,2020-09-19,Acceptance
+BGR,Bulgaria,2018-05-01,Ratification
+BFA,Burkina Faso,2018-07-26,Ratification
+BDI,Burundi,2021-03-26,Ratification
+CPV,Cabo Verde,2020-10-28,Ratification
+KHM,Cambodia,2021-04-08,Acceptance
+CMR,Cameroon,2021-08-24,Ratification
+CAN,Canada,2017-11-03,Ratification
+TCD,Chad,2019-03-26,Ratification
+CHL,Chile,2017-09-19,Ratification
+CHN,China,2021-06-17,Acceptance
+COL,Colombia,2021-02-25,Ratification
+COM,Comoros,2017-11-16,Ratification
+COG,Congo,2022-06-16,Ratification
+COK,Cook Islands,2019-08-22,Acceptance
+CRI,Costa Rica,2018-05-23,Ratification
+CIV,Côte d'Ivoire,2017-11-29,Acceptance
+HRV,Croatia,2018-12-06,Ratification
+CUB,Cuba,2019-06-20,Ratification
+CYP,Cyprus,2019-07-22,Ratification
+CZE,Czech Republic,2018-09-27,Acceptance
+PRK,Democratic People's Republic of Korea,2017-09-21,Ratification
+DNK,Denmark,2018-12-06,Approval
+DOM,Dominican Republic,2021-04-14,Acceptance
+ECU,Ecuador,2018-01-22,Ratification
+SLV,El Salvador,2021-09-13,Acceptance
+EST,Estonia,2018-09-27,Ratification
+SWZ,Eswatini,2020-11-24,Acceptance
+ETH,Ethiopia,2019-07-05,Ratification
+EUU,European Union,2018-09-27,Approval
+FJI,Fiji,2020-06-16,Ratification
+FIN,Finland,2017-11-14,Acceptance
+FRA,France,2018-03-29,Approval
+GAB,Gabon,2018-02-28,Acceptance
+GMB,Gambia,2021-05-05,Ratification
+DEU,Germany,2017-11-14,Acceptance
+GHA,Ghana,2019-08-02,Ratification
+GRC,Greece,2018-10-05,Ratification
+GRD,Grenada,2018-05-29,Ratification
+GIN,Guinea,2019-12-05,Ratification
+GNB,Guinea-Bissau,2018-10-22,Ratification
+VAT,Holy See,2020-06-17,Ratification
+HND,Honduras,2019-01-28,Ratification
+HUN,Hungary,2018-09-14,Approval
+ISL,Iceland,2021-01-25,Acceptance
+IND,India,2021-09-27,Ratification
+IRL,Ireland,2018-03-12,Ratification
+ITA,Italy,2022-05-25,Ratification
+JPN,Japan,2018-12-18,Acceptance
+JOR,Jordan,2019-10-16,Ratification
+KIR,Kiribati,2018-10-26,Ratification
+KGZ,Kyrgyzstan,2020-09-08,Ratification
+LAO,Lao People's Democratic Republic,2017-11-16,Acceptance
+LVA,Latvia,2018-08-17,Ratification
+LBN,Lebanon,2020-02-05,Ratification
+LSO,Lesotho,2019-10-07,Ratification
+LBR,Liberia,2020-07-12,Ratification
+LIE,Liechtenstein,2020-09-16,Ratification
+LTU,Lithuania,2018-07-24,Ratification
+LUX,Luxembourg,2017-11-16,Ratification
+MWI,Malawi,2017-11-21,Ratification
+MYS,Malaysia,2020-10-21,Ratification
+MDV,Maldives,2017-11-13,Ratification
+MLI,Mali,2017-03-31,Acceptance
+MHL,Marshall Islands,2017-05-15,Ratification
+MUS,Mauritius,2019-10-01,Ratification
+MEX,Mexico,2018-09-25,Acceptance
+FSM,Micronesia (Federated States of),2017-05-12,Ratification
+MNE,Montenegro,2019-04-23,Ratification
+MAR,Morocco,2022-04-22,Ratification
+MOZ,Mozambique,2020-01-16,Ratification
+NAM,Namibia,2019-05-16,Acceptance
+NLD,Netherlands,2018-02-08,Acceptance
+NZL,New Zealand,2019-10-03,Ratification
+NIC,Nicaragua,2020-09-30,Ratification
+NER,Niger,2018-08-29,Ratification
+NGA,Nigeria,2018-12-20,Ratification
+NIU,Niue,2018-04-24,Ratification
+MKD,North Macedonia,2020-03-12,Ratification
+NOR,Norway,2017-09-06,Ratification
+PLW,Palau,2017-08-29,Ratification
+PAN,Panama,2018-09-28,Ratification
+PRY,Paraguay,2018-11-01,Acceptance
+PER,Peru,2019-08-07,Ratification
+POL,Poland,2019-01-07,Ratification
+PRT,Portugal,2018-07-17,Approval
+ROU,Romania,2020-07-01,Acceptance
+RUS,Russian Federation,2020-10-03,Acceptance
+RWA,Rwanda,2017-05-23,Ratification
+WSM,Samoa,2018-03-23,Ratification
+SMR,San Marino,2020-10-20,Acceptance
+STP,Sao Tome and Principe,2019-10-04,Ratification
+SEN,Senegal,2018-08-31,Ratification
+SRB,Serbia,2021-10-08,Ratification
+SYC,Seychelles,2019-08-20,Acceptance
+SLE,Sierra Leone,2020-06-15,Ratification
+SGP,Singapore,2022-06-01,Ratification
+SVK,Slovakia,2017-11-16,Ratification
+SVN,Slovenia,2018-12-07,Ratification
+SLB,Solomon Islands,2022-05-23,Ratification
+SOM,Somalia,2019-11-27,Ratification
+ZAF,South Africa,2019-08-01,Ratification
+ESP,Spain,2022-01-20,Provisional application under Article V
+LKA,Sri Lanka,2018-09-28,Ratification
+LCA,St. Lucia,2021-11-02,Ratification
+SWE,Sweden,2017-11-17,Ratification
+CHE,Switzerland,2018-11-07,Ratification
+SYR,Syrian Arab Republic,2021-04-05,Ratification
+TJK,Tajikistan,2022-06-29,Ratification
+TGO,Togo,2018-03-08,Acceptance
+TON,Tonga,2018-09-17,Ratification
+TTO,Trinidad and Tobago,2017-11-17,Ratification
+TUN,Tunisia,2021-08-27,Ratification
+TUR,Turkey,2021-11-10,Ratification
+TKM,Turkmenistan,2020-08-31,Ratification
+TUV,Tuvalu,2017-09-21,Ratification
+UGA,Uganda,2018-06-21,Ratification
+GBR,United Kingdom of Great Britain and Northern Ireland,2017-11-14,Ratification
+TZA,United Republic of Tanzania,2022-03-25,Ratification
+URY,Uruguay,2018-09-12,Ratification
+VUT,Vanuatu,2018-04-20,Ratification
+VNM,Viet Nam,2019-09-27,Approval
+ZMB,Zambia,2021-03-15,Ratification
