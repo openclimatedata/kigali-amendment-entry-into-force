@@ -8,12 +8,14 @@ AUS,Australia,2017-10-27,Acceptance
 AUT,Austria,2018-09-27,Ratification
 BGD,Bangladesh,2020-06-08,Ratification
 BRB,Barbados,2018-04-19,Ratification
+BLR,Belarus,2022-11-03,Ratification
 BEL,Belgium,2018-06-04,Ratification
 BEN,Benin,2018-03-19,Ratification
 BTN,Bhutan,2019-09-27,Ratification
 BOL,Bolivia (Plurinational State of),2020-10-09,Ratification
 BIH,Bosnia and Herzegovina,2021-05-26,Ratification
 BWA,Botswana,2020-09-19,Acceptance
+BRA,Brazil,2022-10-19,Acceptance
 BGR,Bulgaria,2018-05-01,Ratification
 BFA,Burkina Faso,2018-07-26,Ratification
 BDI,Burundi,2021-03-26,Ratification
@@ -86,6 +88,7 @@ MNE,Montenegro,2019-04-23,Ratification
 MAR,Morocco,2022-04-22,Ratification
 MOZ,Mozambique,2020-01-16,Ratification
 NAM,Namibia,2019-05-16,Acceptance
+NRU,Nauru,2022-11-03,Ratification
 NLD,Netherlands,2018-02-08,Acceptance
 NZL,New Zealand,2019-10-03,Ratification
 NIC,Nicaragua,2020-09-30,Ratification
@@ -98,6 +101,7 @@ PLW,Palau,2017-08-29,Ratification
 PAN,Panama,2018-09-28,Ratification
 PRY,Paraguay,2018-11-01,Acceptance
 PER,Peru,2019-08-07,Ratification
+PHL,Philippines,2022-11-03,Ratification
 POL,Poland,2019-01-07,Ratification
 PRT,Portugal,2018-07-17,Approval
 ROU,Romania,2020-07-01,Acceptance
@@ -119,6 +123,7 @@ ZAF,South Africa,2019-08-01,Ratification
 ESP,Spain,2022-01-20,Provisional application under Article V
 LKA,Sri Lanka,2018-09-28,Ratification
 LCA,St. Lucia,2021-11-02,Ratification
+VCT,St. Vincent and the Grenadines,2022-11-07,Ratification
 SWE,Sweden,2017-11-17,Ratification
 CHE,Switzerland,2018-11-07,Ratification
 SYR,Syrian Arab Republic,2021-04-05,Ratification
@@ -127,13 +132,16 @@ TGO,Togo,2018-03-08,Acceptance
 TON,Tonga,2018-09-17,Ratification
 TTO,Trinidad and Tobago,2017-11-17,Ratification
 TUN,Tunisia,2021-08-27,Ratification
-TUR,Turkey,2021-11-10,Ratification
+TUR,Türkiye,2021-11-10,Ratification
 TKM,Turkmenistan,2020-08-31,Ratification
 TUV,Tuvalu,2017-09-21,Ratification
 UGA,Uganda,2018-06-21,Ratification
 GBR,United Kingdom of Great Britain and Northern Ireland,2017-11-14,Ratification
 TZA,United Republic of Tanzania,2022-03-25,Ratification
+USA,United States of America,2022-10-31,Ratification
 URY,Uruguay,2018-09-12,Ratification
 VUT,Vanuatu,2018-04-20,Ratification
+VEN,Venezuela (Bolivarian Republic of),2022-12-05,Ratification
 VNM,Viet Nam,2019-09-27,Approval
 ZMB,Zambia,2021-03-15,Ratification
+ZWE,Zimbabwe,2022-10-18,Acceptance
