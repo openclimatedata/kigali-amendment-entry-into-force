@@ -1,4 +1,3 @@
-
 from enum import Enum
 import os
 import re
@@ -19,7 +18,9 @@ r = requests.get(treaty_url)
 
 if "urgent maintenance and is currently unavailable" in r.text:
     print("\nNo data found.")
-    print("\nMaybe https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVII-2-f&chapter=27&clang=_en is down?")
+    print(
+        "\nMaybe https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVII-2-f&chapter=27&clang=_en is down?"
+    )
     sys.exit()
 
 
@@ -31,23 +32,24 @@ rows = tree.find("Treaty/Participants/Table/TGroup/Tbody/Rows")
 expected_columns = [
     "Participant",
     "Provisional application under Article V",
-    "Acceptance(A), Ratification, Approval(AA)"
+    "Acceptance(A), Ratification, Approval(AA)",
 ]
+
+
 class ParticipationType(Enum):
     RATIFICATION = "Ratification"
     ACCEPTANCE = "Acceptance"
     APPROVAL = "Approval"
     PROVISIONAL_ARTICLE_V = "Provisional application under Article V"
-    
 
 
-for i,c in enumerate(columns):
+for i, c in enumerate(columns):
     assert c.text == expected_columns[i]
 
 entries = []
 for row in rows:
     # Remove footnotes from country names.
-    name = re.sub('<superscript>.</superscript>', '', row[0].text)
+    name = re.sub("<superscript>.</superscript>", "", row[0].text)
 
     participation_type = None
     if row[1].text is not None:
@@ -73,7 +75,7 @@ for row in rows:
     date = pd.to_datetime(date_string)
     entries.append((name, date, participation_type.value))
 
-df = pd.DataFrame.from_records(entries, columns=('Name', 'Date', 'Participation Type'))
+df = pd.DataFrame.from_records(entries, columns=("Name", "Date", "Participation Type"))
 df.index = df.Name.apply(countrynames.to_code_3)
 df.index.name = "Code"
 
