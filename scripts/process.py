@@ -83,7 +83,7 @@ for row in rows:
 
 
 df = pd.DataFrame.from_records(entries, columns=("Name", "Date", "Participation Type"))
-df.index = df.Name.apply(countrynames.to_code_3, fuzzy=True)
+df.index = df.Name.apply(countrynames.to_code_3)
 df.index.name = "Code"
 
 df.to_csv(outfile)
