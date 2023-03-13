@@ -73,10 +73,17 @@ for row in rows:
             participation_type = ParticipationType.RATIFICATION
 
     date = pd.to_datetime(date_string)
+
+    # Quickfix for Netherlands
+    # TODO fix upstream?
+    if name == "Netherlands (Kingdom of the)":
+        name = "Netherlands"
+
     entries.append((name, date, participation_type.value))
 
+
 df = pd.DataFrame.from_records(entries, columns=("Name", "Date", "Participation Type"))
-df.index = df.Name.apply(countrynames.to_code_3)
+df.index = df.Name.apply(countrynames.to_code_3, fuzzy=True)
 df.index.name = "Code"
 
 df.to_csv(outfile)
