@@ -74,11 +74,6 @@ for row in rows:
 
     date = pd.to_datetime(date_string)
 
-    # Quickfix for Netherlands
-    # TODO fix upstream?
-    if name == "Netherlands (Kingdom of the)":
-        name = "Netherlands"
-
     entries.append((name, date, participation_type.value))
 
 
