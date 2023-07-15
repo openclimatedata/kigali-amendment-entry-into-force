@@ -1,4 +1,4 @@
-countrynames>=0.15.1
+countrynames>=1.15.1
 unidecode
 pandas
 requests
