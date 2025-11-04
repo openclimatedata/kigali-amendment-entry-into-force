@@ -6,7 +6,8 @@ ARG,Argentina,2019-11-22,Ratification
 ARM,Armenia,2019-05-02,Acceptance
 AUS,Australia,2017-10-27,Acceptance
 AUT,Austria,2018-09-27,Ratification
-BHS,Bahamas,2023-05-30,Ratification
+BHS,Bahamas (The),2023-05-30,Ratification
+BHR,Bahrain,2024-07-01,Ratification
 BGD,Bangladesh,2020-06-08,Ratification
 BRB,Barbados,2018-04-19,Ratification
 BLR,Belarus,2022-11-03,Ratification
@@ -18,6 +19,7 @@ BOL,Bolivia (Plurinational State of),2020-10-09,Ratification
 BIH,Bosnia and Herzegovina,2021-05-26,Ratification
 BWA,Botswana,2020-09-19,Acceptance
 BRA,Brazil,2022-10-19,Acceptance
+BRN,Brunei Darussalam,2025-09-18,Ratification
 BGR,Bulgaria,2018-05-01,Ratification
 BFA,Burkina Faso,2018-07-26,Ratification
 BDI,Burundi,2021-03-26,Ratification
@@ -25,6 +27,7 @@ CPV,Cabo Verde,2020-10-28,Ratification
 KHM,Cambodia,2021-04-08,Acceptance
 CMR,Cameroon,2021-08-24,Ratification
 CAN,Canada,2017-11-03,Ratification
+CAF,Central African Republic,2025-10-15,Approval
 TCD,Chad,2019-03-26,Ratification
 CHL,Chile,2017-09-19,Ratification
 CHN,China,2021-06-17,Acceptance
@@ -40,6 +43,7 @@ CYP,Cyprus,2019-07-22,Ratification
 CZE,Czech Republic,2018-09-27,Acceptance
 PRK,Democratic People's Republic of Korea,2017-09-21,Ratification
 DNK,Denmark,2018-12-06,Approval
+DJI,Djibouti,2024-03-08,Ratification
 DOM,Dominican Republic,2021-04-14,Acceptance
 ECU,Ecuador,2018-01-22,Ratification
 EGY,Egypt,2023-08-22,Ratification
@@ -59,6 +63,7 @@ DEU,Germany,2017-11-14,Acceptance
 GHA,Ghana,2019-08-02,Ratification
 GRC,Greece,2018-10-05,Ratification
 GRD,Grenada,2018-05-29,Ratification
+GTM,Guatemala,2024-01-11,Ratification
 GIN,Guinea,2019-12-05,Ratification
 GNB,Guinea-Bissau,2018-10-22,Ratification
 VAT,Holy See,2020-06-17,Ratification
@@ -73,6 +78,7 @@ JPN,Japan,2018-12-18,Acceptance
 JOR,Jordan,2019-10-16,Ratification
 KEN,Kenya,2023-09-22,Acceptance
 KIR,Kiribati,2018-10-26,Ratification
+KWT,Kuwait,2024-11-04,Approval
 KGZ,Kyrgyzstan,2020-09-08,Ratification
 LAO,Lao People's Democratic Republic,2017-11-16,Acceptance
 LVA,Latvia,2018-08-17,Ratification
@@ -96,6 +102,7 @@ MAR,Morocco,2022-04-22,Ratification
 MOZ,Mozambique,2020-01-16,Ratification
 NAM,Namibia,2019-05-16,Acceptance
 NRU,Nauru,2022-11-03,Ratification
+NPL,Nepal,2025-08-06,Ratification
 NLD,Netherlands (Kingdom of the),2018-02-08,Acceptance
 NZL,New Zealand,2019-10-03,Ratification
 NIC,Nicaragua,2020-09-30,Ratification
@@ -104,8 +111,11 @@ NGA,Nigeria,2018-12-20,Ratification
 NIU,Niue,2018-04-24,Ratification
 MKD,North Macedonia,2020-03-12,Ratification
 NOR,Norway,2017-09-06,Ratification
+OMN,Oman,2024-11-08,Ratification
+PAK,Pakistan,2025-10-22,Ratification
 PLW,Palau,2017-08-29,Ratification
 PAN,Panama,2018-09-28,Ratification
+PNG,Papua New Guinea,2024-11-12,Ratification
 PRY,Paraguay,2018-11-01,Acceptance
 PER,Peru,2019-08-07,Ratification
 PHL,Philippines,2022-11-03,Ratification
@@ -119,6 +129,7 @@ RWA,Rwanda,2017-05-23,Ratification
 WSM,Samoa,2018-03-23,Ratification
 SMR,San Marino,2020-10-20,Acceptance
 STP,Sao Tome and Principe,2019-10-04,Ratification
+SAU,Saudi Arabia,2025-09-10,Acceptance
 SEN,Senegal,2018-08-31,Ratification
 SRB,Serbia,2021-10-08,Ratification
 SYC,Seychelles,2019-08-20,Acceptance
@@ -131,12 +142,14 @@ SOM,Somalia,2019-11-27,Ratification
 ZAF,South Africa,2019-08-01,Ratification
 ESP,Spain,2022-01-20,Provisional application under Article V
 LKA,Sri Lanka,2018-09-28,Ratification
+KNA,St. Kitts and Nevis,2025-08-29,Acceptance
 LCA,St. Lucia,2021-11-02,Ratification
 VCT,St. Vincent and the Grenadines,2022-11-07,Ratification
 SWE,Sweden,2017-11-17,Ratification
 CHE,Switzerland,2018-11-07,Ratification
 SYR,Syrian Arab Republic,2021-04-05,Ratification
 TJK,Tajikistan,2022-06-29,Ratification
+THA,Thailand,2024-04-03,Ratification
 TGO,Togo,2018-03-08,Acceptance
 TON,Tonga,2018-09-17,Ratification
 TTO,Trinidad and Tobago,2017-11-17,Ratification
@@ -145,6 +158,7 @@ TUR,Türkiye,2021-11-10,Ratification
 TKM,Turkmenistan,2020-08-31,Ratification
 TUV,Tuvalu,2017-09-21,Ratification
 UGA,Uganda,2018-06-21,Ratification
+ARE,United Arab Emirates,2024-04-19,Acceptance
 GBR,United Kingdom of Great Britain and Northern Ireland,2017-11-14,Ratification
 TZA,United Republic of Tanzania,2022-03-25,Ratification
 USA,United States of America,2022-10-31,Ratification
